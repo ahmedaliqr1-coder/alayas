@@ -294,7 +294,7 @@
     
     <h1 class="main-title">UAE Traffic Fine Inquiry & Payment Services</h1>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-car-side"></i></div>
         <div class="card-content">
             <span class="card-title">Inquiry by Plate Number</span>
@@ -303,7 +303,7 @@
         <div class="query-btn">Inquiry</div>
     </a>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-folder-open"></i></div>
         <div class="card-content">
             <span class="card-title">Inquiry by Traffic File</span>
@@ -312,7 +312,7 @@
         <div class="query-btn">Inquiry</div>
     </a>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-id-card"></i></div>
         <div class="card-content">
             <span class="card-title">Inquiry by License</span>
