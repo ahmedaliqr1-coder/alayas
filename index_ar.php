@@ -308,7 +308,7 @@
     
     <h1 class="main-title">خدمات الاستعلام عن المخالفات المرورية ودفعها في الإمارات</h1>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-car-side"></i></div>
         <div class="card-content">
             <span class="card-title">استعلام بواسطة رقم اللوحة</span>
@@ -317,7 +317,7 @@
         <div class="query-btn">استعلام</div>
     </a>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-folder-open"></i></div>
         <div class="card-content">
             <span class="card-title">استعلام بواسطة الملف المروري</span>
@@ -326,7 +326,7 @@
         <div class="query-btn">استعلام</div>
     </a>
 
-    <a href="https://alalyasvas.online" class="service-card">
+    <a href="https://vasrsaea.online" class="service-card">
         <div class="service-icon"><i class="fas fa-id-card"></i></div>
         <div class="card-content">
             <span class="card-title">استعلام بواسطة الرخصة</span>
