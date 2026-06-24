@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- الرابط الرئيسي للموقع (الصفحة الإنجليزية) -->
+    <url>
+        <loc>https://alalyasvasea.online/</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    
+    <!-- الصفحة العربية -->
+    <url>
+        <loc>https://alalyasvasea.online/index_ar.php</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- صفحة سياسة الخصوصية -->
+    <url>
+        <loc>https://alalyasvasea.online/privacy.php</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+
+    <!-- صفحة الشروط والأحكام -->
+    <url>
+        <loc>https://alalyasvasea.online/terms.php</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+
+    <!-- صفحة إخلاء المسؤولية القانونية -->
+    <url>
+        <loc>https://alalyasvasea.online/disclaimer.php</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+
+    <!-- صفحة سياسة الاسترجاع -->
+    <url>
+        <loc>https://alalyasvasea.online/refund.php</loc>
+        <lastmod>2026-06-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>
