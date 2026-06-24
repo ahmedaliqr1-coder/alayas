@@ -12,7 +12,14 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="vn3zZThzK-yiHQCahTbfm15rrH0yUsWpYMWOauR7ylc" />
+    
+    <!-- SEO Meta Tags -->
     <title>Al Elais Center - Traffic Services</title>
+    <meta name="description" content="Inquire and pay UAE traffic fines securely through Al Elais Vehicle Testing & Registration Centre. Check fines by plate number, traffic file, or driving license.">
+    <meta name="keywords" content="pay traffic fines uae, traffic fine inquiry, al elais center, dubai traffic fines, plate number check, traffic file inquiry, vehicle testing registration uae">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
