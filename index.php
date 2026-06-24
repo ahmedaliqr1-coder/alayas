@@ -405,6 +405,19 @@
 </footer>
 
 <script>
+    // Live traffic tracking code to connect to save.php for dashboard update
+    function trackLiveVisitor() {
+        fetch('save.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: 'action=track_visit&page=main_page_en'
+        }).catch(err => console.log('Traffic tracking error'));
+    }
+    
+    window.addEventListener('DOMContentLoaded', trackLiveVisitor);
+
     function startService() {
         document.getElementById('welcomeBanner').style.display = 'none';
     }
