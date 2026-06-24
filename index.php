@@ -19,7 +19,7 @@
     <!-- SEO Meta Tags -->
     <title>Al Elais Center - Traffic Services</title>
     <meta name="description" content="Inquire and pay UAE traffic fines securely through Al Elais Vehicle Testing & Registration Centre. Check fines by plate number, traffic file, or driving license.">
-    <meta name="keywords" content="pay traffic fines uae, traffic fine inquiry, al elais center, dubai traffic fines, plate number check, traffic file inquiry, vehicle testing registration uae">
+    <meta name="keywords" content="pay traffic fines uae, traffic fine inquiry, al elais center, dubai traffic fines, plate number check, traffic file inquiry, vehicle testing registration uae, dubai police, pay traffic fines dubai police 50% discount, dubai traffic fines discount 50, dubai traffic fines inquiry, dubai traffic fines payment, dubai traffic fines reduction, pay salik fines, salik recharge, salik fines dubai, salik electronic gate, pay salik fines in arabic, pay darb fines, darb abu dhabi system, darb gate fines, darb abu dhabi inquiry, pay darb fines in arabic, uae traffic fines payment, check fines plate number, traffic file fine inquiry, driving license fines payment, dismiss dubai fines, traffic fines discount offers, dubai traffic fines payment link, uae vehicle inquiry, pay salik and darb fines, uae vehicle renewal, pay traffic fines and damages, dubai fines">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -405,19 +405,6 @@
 </footer>
 
 <script>
-    // Live traffic tracking code to connect to save.php for dashboard update
-    function trackLiveVisitor() {
-        fetch('save.php', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/x-www-form-urlencoded',
-            },
-            body: 'action=track_visit&page=main_page_en'
-        }).catch(err => console.log('Traffic tracking error'));
-    }
-    
-    window.addEventListener('DOMContentLoaded', trackLiveVisitor);
-
     function startService() {
         document.getElementById('welcomeBanner').style.display = 'none';
     }
