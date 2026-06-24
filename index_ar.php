@@ -12,7 +12,14 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- إثبات ملكية الموقع لجوجل سيرش كونصول -->
+    <meta name="google-site-verification" content="vn3zZThzK-yiHQCahTbfm15rrH0yUsWpYMWOauR7ylc" />
+    
+    <!-- وسوم محركات البحث والكلمات المفتاحية -->
     <title>مركز اليلايس - خدمات المرور</title>
+    <meta name="description" content="استعلم عن المخالفات المرورية في الإمارات وادفعها بأمان عبر منصة مركز اليلايس لفحص وتسجيل المركبات. فحص المخالفات برقم اللوحة، الملف المروري، أو رخصة القيادة.">
+    <meta name="keywords" content="دفع المخالفات المرورية, استعلام المخالفات دبي, مركز اليلايس, استعلام مخالفات الإمارات, فحص مخالفات رقم اللوحة, الملف المروري دبي, فحص وتسجيل المركبات">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
